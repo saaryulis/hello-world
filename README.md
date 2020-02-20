@@ -1,6 +1,9 @@
-# Hello World
+#include <cstdio>
+using namespace std;
 
-Hi!
-
-Saaryulis here, I love studying Python Programming Language (still beginner tho)
-That's it.
+int main()	{
+	printf(	"Hello World!\n"
+			"My name's Saryulis, and I'm new to programming.\n"
+			"That's it.");	
+	return 0;
+}
